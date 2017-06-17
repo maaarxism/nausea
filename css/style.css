@@ -1,0 +1,29 @@
+/*body {
+  width: 50vw;
+  background: url(../images/nausea.jpg) center center no-repeat;
+  background-size: cover;
+}*/
+
+body {
+  overflow-y: hidden;
+}
+
+div {
+  position: absolute;
+  height: 100vh;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.man {
+
+}
+
+.nausea {
+  /*margin:auto;*/
+  margin-left: 35vw;
+  height:100vh;
+}
